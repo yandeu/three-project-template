@@ -1,0 +1,22 @@
+{
+  "short_name": "Three Scene",
+  "name": "My Cool Three.js Scene",
+  "icons": [
+    {
+      "src": "./icons/icons-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "./icons/icons-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "./index.html",
+  "background_color": "#e6e6e6",
+  "display": "fullscreen",
+  "orientation": "any",
+  "scope": "./",
+  "theme_color": "#000000"
+}
